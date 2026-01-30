@@ -26,6 +26,9 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Interactions
+Works with Product Managers on feature requirements and acceptance criteria, and with Project Managers on timeline estimates and delivery commitments. Collaborates with QA Advocate on testing strategies and quality standards.
+
 ---
 
 ## Product Managers
@@ -48,6 +51,9 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Interactions
+Partners with Developers to define acceptance criteria and validate solutions. Collaborates with Project Managers on prioritization and roadmap planning. Works with Stakeholder Liaison to gather feedback and communicate product direction.
 
 ---
 
@@ -72,6 +78,144 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Interactions
+Coordinates with Developers on delivery timelines and resource planning. Works with Product Managers on scope and prioritization. Collaborates with Release Coordinator on deployment schedules and Change Manager on scope changes.
+
+---
+
+## Release Coordinator
+
+### Role Summary
+Coordinates and oversees the deployment and release process.
+
+### Responsibilities
+- Oversees deployment readiness and release planning
+- Communicates release schedules to all stakeholders
+- Ensures all release checklist items are complete
+- Coordinates between Dev, QA, and Ops teams
+- Manages release documentation and post-release validation
+
+### Goals
+- Ensure smooth, predictable releases with minimal disruption
+- Maintain clear communication throughout the release lifecycle
+- Reduce deployment-related incidents and rollbacks
+
+### Typical Communication
+- Release readiness meetings and go/no-go decisions
+- Release notes and deployment schedules
+- Post-release status reports
+
+### Interactions
+Works closely with Project Manager (PM) and Tech Lead. Produces the rollout plan, confirms all signoffs from QA and Change Manager, and updates the PM on release status.
+
+---
+
+## QA Advocate
+
+### Role Summary
+Champions quality assurance and represents end-user quality interests.
+
+### Responsibilities
+- Ensures rigorous validation and testing coverage
+- Manages bug-tracking communications and triage
+- Represents end-user quality interests in planning discussions
+- Defines and maintains quality standards and acceptance criteria
+- Coordinates testing strategies across the team
+
+### Goals
+- Maintain high product quality and user satisfaction
+- Catch issues before they reach production
+- Advocate for testability and maintainability in designs
+
+### Typical Communication
+- Test reports and quality metrics
+- Bug triage meetings and status updates
+- Quality gate reviews and sign-offs
+
+### Interactions
+Works with Developers and Product Managers. Must sign off on acceptance criteria before deployment and flags process documentation needs to the Technical Writer.
+
+---
+
+## Change Manager
+
+### Role Summary
+Manages the change control process for project scope and requirements.
+
+### Responsibilities
+- Owns the process for updating project scope, requirements, or key deliverables
+- Evaluates change requests and assesses impact on timeline, resources, and dependencies
+- Mediates change impact discussions with stakeholders
+- Maintains change logs and ensures traceability
+- Acts as a bridge between stakeholder teams during scope changes
+
+### Goals
+- Ensure changes are properly evaluated and communicated
+- Minimize disruption from scope changes
+- Maintain project stability while enabling necessary flexibility
+
+### Typical Communication
+- Change request reviews and impact assessments
+- Change approval board meetings
+- Stakeholder notifications of approved changes
+
+### Interactions
+Evaluates proposed changes, consults the PM and Stakeholder Liaison, and documents outcomes with the Technical Writer.
+
+---
+
+## Technical Writer
+
+### Role Summary
+Creates and maintains technical documentation and knowledge bases.
+
+### Responsibilities
+- Documents processes, decisions, and technical implementations
+- Updates knowledge bases and internal wikis
+- Collaborates with domain experts to ensure clarity and accuracy
+- Creates user guides, API documentation, and runbooks
+- Maintains documentation standards and templates
+
+### Goals
+- Ensure clear, accurate, and accessible documentation
+- Reduce onboarding time for new team members
+- Capture institutional knowledge effectively
+
+### Typical Communication
+- Documentation reviews with subject matter experts
+- Style guide and template updates
+- Documentation status reports
+
+### Interactions
+Collaborates with domain experts across all teams. Receives process documentation needs from the QA Advocate and documents change outcomes from the Change Manager.
+
+---
+
+## Stakeholder Liaison
+
+### Role Summary
+Acts as the primary interface between the project team and key stakeholders.
+
+### Responsibilities
+- Serves as the point of contact for key stakeholders
+- Funnels feedback from stakeholders to the core project team
+- Manages stakeholder expectations and communications
+- Provides regular updates on project status and milestones
+- Identifies and escalates stakeholder concerns
+
+### Goals
+- Maintain strong stakeholder relationships and trust
+- Ensure stakeholder needs are understood and addressed
+- Keep stakeholders informed and engaged appropriately
+
+### Typical Communication
+- Executive briefings and status updates
+- Stakeholder feedback sessions
+- Escalation and issue resolution discussions
+
+### Interactions
+Collaborates with PM and Change Manager on scope and priority decisions. Ensures stakeholder feedback is properly captured and communicated to the team.
 
 ---
 
