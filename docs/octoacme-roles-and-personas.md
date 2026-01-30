@@ -26,6 +26,9 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Interactions
+Works with Product Managers on feature requirements and acceptance criteria, and with Project Managers on timeline estimates and delivery commitments. Collaborates with QA Advocate on testing strategies and quality standards.
+
 ---
 
 ## Product Managers
@@ -48,6 +51,9 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Interactions
+Partners with Developers to define acceptance criteria and validate solutions. Collaborates with Project Managers on prioritization and roadmap planning. Works with Stakeholder Liaison to gather feedback and communicate product direction.
 
 ---
 
@@ -72,6 +78,9 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Interactions
+Coordinates with Developers on delivery timelines and resource planning. Works with Product Managers on scope and prioritization. Collaborates with Release Coordinator on deployment schedules and Change Manager on scope changes.
 
 ---
 
@@ -189,7 +198,7 @@ Collaborates with domain experts across all teams. Receives process documentatio
 Acts as the primary interface between the project team and key stakeholders.
 
 ### Responsibilities
-- Acts as the point of contact for key stakeholders
+- Serves as the point of contact for key stakeholders
 - Funnels feedback from stakeholders to the core project team
 - Manages stakeholder expectations and communications
 - Provides regular updates on project status and milestones
